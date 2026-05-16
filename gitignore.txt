@@ -60,3 +60,13 @@ crashlytics-build.properties
 
 #ignore My own system (if you want it I'll sell it to you on steam)
 AlexanderCiracAntio/
+Library/
+Temp/
+Obj/
+Logs/
+Bee/
+BurstCache/
+Build/
+Builds/
+Artifact/
+Artifacts/
