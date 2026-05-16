@@ -3,3 +3,8 @@
 /PingPoing/Logs
 /PingPoing/UserSettings
 /PingPoing/Library
+*.cm
+*.bhc
+*.asset
+*.log
+*.dwlt
