@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8bab909c-09ae-4650-a72f-84d29488b566}">
+		<property name="assetPath">
+			<value>Movimiento/SFX_ChoquePelotaPala.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1029478458049886</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee10e70d-6779-471b-bb8c-6c0b3ed8bde0}</destination>
+		</relationship>
+	</object>
+</objects>

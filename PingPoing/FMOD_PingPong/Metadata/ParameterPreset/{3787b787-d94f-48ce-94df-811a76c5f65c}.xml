@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{3787b787-d94f-48ce-94df-811a76c5f65c}">
+		<property name="name">
+			<value>Parameter_ChoquePelota</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2cb3c371-ad65-4530-b57c-fc3ed7e2b7fe}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5db22f8b-973d-4077-9688-a4fee67c97df}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5db22f8b-973d-4077-9688-a4fee67c97df}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

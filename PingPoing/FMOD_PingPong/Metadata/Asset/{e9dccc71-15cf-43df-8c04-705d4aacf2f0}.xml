@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{e9dccc71-15cf-43df-8c04-705d4aacf2f0}">
+		<property name="assetPath">
+			<value>Movimiento/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee10e70d-6779-471b-bb8c-6c0b3ed8bde0}</destination>
+		</relationship>
+	</object>
+</objects>
